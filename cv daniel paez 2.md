@@ -1,30 +1,18 @@
-﻿
-
-DANIEL MARIO PAEZ
+# DANIEL MARIO PAEZ
 
 PROGRAMADOR ORIENTADO A CIENCIA DE DATOS.
 
+## Contacto
+
 LABOTICA@LABOTICAHITS.COM.AR
 
-**Contacto.**
++54-11-21912435
 
-**Teléfono.**
+## Objetivos profesionales
 
-**Objetivos profesionales.**
-
-**Desarrollo integral en el área de datos.**
-
-**+541121912435**
-
-**Habilidades.**
-
-**Compartir habilidades con grupos de trabajo para en**
-
-**colaboración enriquecer la labor.**
-
-**Perfeccionarme en el área pedagógica para poder**
-
-**transmitir conocimientos de manera más eficiente.**
+Desarrollo integral en el área de datos.  
+Compartir habilidades con grupos de trabajo en colaboración enriquecer la labor.
+Perfeccionarme en el área pedagógica para poder transmitir conocimientos de manera más eficiente
 
 **Admin. BB. DD.**
 
