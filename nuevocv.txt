@@ -86,10 +86,29 @@ los datos a visualizar.
 se traza una geometría donde en caso de detectarse movimiento inicia y va incrementándose
 un contador, con la misma librería hice otro proyecto que detecta objetos según su color.
 
-REPOSITORIO EN GITHUB: https://github.com/DanDatos76
+Repositorio en Github: https://github.com/DanDatos76
 
-IDIOMAS.
+Idiomas.
 Francés: intermedio
 Latín: básico
 Griego antiguo: básico
 Inglés: básico
+
+Formación académica
+  Segundo año de Filosofía.
+  Universidad de El Salvador. Colegio Máximo San José
+  Años 1997-8
+
+
+Experiencia laboral.
+
+  Vendedor puerta a puerta(1993-1998)
+  Operador atención al cliente Telecom(1999-2000)
+  Operario de limpìeza. Espejo S.A(2002-2004)
+  Operador atención al cliente Vodafone España, en Teleperformance(2005-2008)
+  Vendedor telefónico Sprayette(2010-2014)
+  Trabajos en la economía informal en diversos rubros(2015-2018)
+  Trabajos freelance en el rubto IT (2018 a la actualidad):
+  Desarrollo de páginas webs estáticas
+  Desarrollo de páginas con Wordpress
+Desarrollo en Python de aplicaciones relacionadas a la ciencia de datos.
